@@ -1,0 +1,13 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for SYW Account Online #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="SfOIuzL9bJTnG1s15n1tw8mrW8WlYZXf4LA0cdqffuM" />
+    <meta name="msvalidate.01" content="671DFC03B959E91643B7D7567E37E46A" />
+    <meta name="description" content="Log in to SYW Account Online at syw.accountonline.com to manage your Shop Your Way credit card. View balances, pay bills, track rewards, and manage your account securely." />
+    <meta name="keywords" content="syw.accountonline.com login, SYW Account Online, Shop Your Way credit card login, SYW rewards, SYW bill payment" />
+    <meta name="robots" content="index, follow" />
+    <title>SYW Account Online Login – Shop Your Way Credit Card Access Guide</title>
+    {{ super() }}
+{% endblock %}
