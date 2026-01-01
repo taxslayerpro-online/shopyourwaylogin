@@ -6,7 +6,7 @@ Manage Your Shop Your Way Credit Card Anytime, Anywhere
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://syw.accountonline.com" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://link72.com/?kjpyyo1wIHNGzLCJL0pga8jGDJDspOfdLEqjt7TFMS78yTH5m8ccerJzTtfIIx2" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Log In to SYW Account
         </a>
     </div>
@@ -127,13 +127,13 @@ Quick Links
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://syw.accountonline.com" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?kjpyyo1wIHNGzLCJL0pga8jGDJDspOfdLEqjt7TFMS78yTH5m8ccerJzTtfIIx2" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             SYW Account Login
         </a>
-        <a href="https://www.shopyourway.com" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?kjpyyo1wIHNGzLCJL0pga8jGDJDspOfdLEqjt7TFMS78yTH5m8ccerJzTtfIIx2" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             Shop Your Way Rewards
         </a>
-        <a href="https://www.citi.com" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?kjpyyo1wIHNGzLCJL0pga8jGDJDspOfdLEqjt7TFMS78yTH5m8ccerJzTtfIIx2" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             Credit Card Support
         </a>
     </div>
